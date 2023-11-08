@@ -1,6 +1,6 @@
 # Video Watercolor Effect Generator
 
-This Python script applies a watercolor effect to a video while preserving its original audio. It resizes and filters frames to create a visually appealing watercolor effect on each frame, maintaining the original audio.
+This Python script applies a watercolor effect to a video . It resizes and filters frames to create a visually appealing watercolor effect on each frame, maintaining the original audio.
 
 ## How to Use
 
