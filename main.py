@@ -1,6 +1,4 @@
 import cv2
-import os
-
 # Edit this function to apply a different effect
 
 
